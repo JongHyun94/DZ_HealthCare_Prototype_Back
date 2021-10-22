@@ -1,0 +1,10 @@
+{
+  "type": "mariadb",
+  "host": "172.16.123.56",
+  "port": 3306,
+  "username": "tes_dev",
+  "password": "qjrm@djqtdma5",
+  "database": "cli",
+  "entities": ["dist/**/*.entity{.ts,.js}", "dist/**/*{.ts,.js}"],
+  "synchronize": false
+}
